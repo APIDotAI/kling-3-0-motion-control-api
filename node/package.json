@@ -1,0 +1,9 @@
+{
+  "name": "apidot-kling-3-0-motion-control-api",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node index.mjs"
+  }
+}
