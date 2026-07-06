@@ -2,7 +2,7 @@
 
 Build with the Kling 3.0 Motion Control API using APIDot: cURL, Node.js, request variants, pricing, and production notes in one GitHub repo.
 
-[Get API Key](https://apidot.ai/dashboard/api-key) | [API Docs](https://apidot.ai/docs/kling-3-0-motion-control) | [Model Page](https://apidot.ai/models/kling-3-0-motion-control) | [Main Examples](https://github.com/APIDotAI/apidot-examples)
+[Try on APIDot](https://apidot.ai/models/kling-3-0-motion-control) | [Get API Key](https://apidot.ai/dashboard/api-key) | [API Docs](https://apidot.ai/docs/kling-3-0-motion-control) | [Pricing](https://apidot.ai/pricing) | [Main Examples](https://github.com/APIDotAI/apidot-examples)
 
 ## Why this repo exists
 
